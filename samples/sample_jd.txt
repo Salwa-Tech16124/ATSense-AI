@@ -1,0 +1,18 @@
+Software Engineer - Python
+
+About the Role:
+We are looking for a highly skilled Software Engineer with a strong background in Python and Machine Learning to join our core AI team. You will be responsible for building scalable machine learning models and developing REST APIs.
+
+Key Responsibilities:
+- Design and develop robust back-end services using Python and FastAPI.
+- Implement machine learning models using Scikit-learn and TensorFlow.
+- Deploy applications on AWS utilizing Docker and Kubernetes for containerization.
+- Collaborate with agile teams using Git for version control.
+- Optimize database queries using SQL and PostgreSQL.
+
+Requirements:
+- Minimum 3 years of experience in Software Engineering.
+- Bachelor's degree in Computer Science or a related field.
+- Strong proficiency in Python, AWS, Docker, and SQL.
+- Experience with NLP and building AI-driven solutions is a major plus.
+- Solid understanding of Scrum and Agile methodologies.

@@ -1,0 +1,19 @@
+John Doe
+johndoe@email.com | (555) 123-4567 | New York, NY
+
+Summary:
+Motivated developer with experience in building web applications. Eager to learn new technologies and contribute to a growing team.
+
+Education:
+Bachelor of Science in Computer Science
+State University - Graduated May 2020
+
+Experience:
+Junior Developer | Tech Solutions Inc. | June 2020 - Present
+- Developed front-end components using React and HTML/CSS.
+- Assisted in managing the MySQL database.
+- Created basic scripts for data processing.
+- Worked with the team to deliver features on time.
+
+Skills:
+React, HTML, CSS, JavaScript, MySQL, Basic Programming
